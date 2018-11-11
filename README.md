@@ -1,2 +1,2 @@
 # hello-world
-sebuah dedikasi tanpa henti
+Sebuah dedikasi tanpa henti
